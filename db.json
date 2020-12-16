@@ -1,13 +1,13 @@
 {
-  "id": "75161080-8233-42d2-bd6a-d3e3de88d713",
-  "displayName": "John Doe",
-  "credentials": [
-    {
-      "id": "c98b8e97-1318-4cae-8db8-247a6059d3a1",
-      "type": "EMAIL",
-      "emailAddress": "lucy.liu1234567hpe.com",
-      "owner": "Shaw",
-      "status": "INACTIVE"
-    }
-  ]
+   "id":"75161080-8233-42d2-bd6a-d3e3de88d713",
+   "displayName":"John Doe",
+   "credentials":[
+      {
+         "id":"c98b8e97-1318-4cae-8db8-247a6059d3a1",
+         "type":"EMAIL",
+         "emailAddress":"lucy.liu1234567hpe.com",
+         "owner":"Shaw",
+         "status":"INACTIVE"
+      }
+   ]
 }
